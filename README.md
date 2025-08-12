@@ -14,7 +14,7 @@ Test your brain by repeating the sequence of colors — each round gets harder!
 ---
 
 ## 🚀 Play Now  
-👉 **[Click Here to Play](https://github.com/DurgaPrasadKattunga/simon-says-game.git)**  
+👉 **[Click Here to Play](https://DurgaPrasadKattunga.github.io/simon-says-game/)**  
 
 *(Opens directly in your browser — no installation needed!)*  
 
